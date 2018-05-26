@@ -1,0 +1,13 @@
+{
+  "name": "wechat-robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "0.13.0",
+    "koa": "^2.5.1",
+    "koa-body": "^2.6.0",
+    "koa-router": "^7.4.0",
+    "pg": "7.1.2"
+  }
+}
